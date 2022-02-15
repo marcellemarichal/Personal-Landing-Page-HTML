@@ -1,4 +1,4 @@
-# Landing-Personal-Page
+# Personal-Landing-Page
 
 
 <img src="Screenshot_1.png" alt="imagem landing page">
@@ -29,4 +29,4 @@ Esse projeto foi desenvolvido individualmente.
 </table>
 
 
-[⬆ Voltar ao topo](#Landing-Personal-Page)<br>
+[⬆ Voltar ao topo](#Personal-Landing-Page)<br>
